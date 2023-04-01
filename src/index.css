@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600;700&family=Babylonica&family=Charmonman:wght@400;700&family=Cinzel:wght@400;500;600;700;800;900&family=Comfortaa:wght@300;400;500;600;700&family=Fredoka:wght@300;400;500;600;700&family=Luxurious+Roman&family=M+PLUS+Rounded+1c:wght@100;300;400;500;700;800;900&family=Major+Mono+Display&family=Stalinist+One&display=swap');
+
+body {
+    margin: 0;
+height: 100vh;
+      font-family: 'M PLUS Rounded 1c', cursive;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: linear-gradient(to right top, #fc84c8, #e88cd8, #d294e4, #ba9cea, #a2a2ec, #8eacf4, #7bb6f8, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+  }
